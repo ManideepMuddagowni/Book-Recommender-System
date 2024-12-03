@@ -29,7 +29,7 @@ This project demonstrates a **Book Recommender System** utilizing **Collaborativ
 
 3. Run the recommender system:
    ```bash
-   python recommender.py
+   streamlit run app.py
    ```
 
 ## How It Works
