@@ -19,7 +19,7 @@ This project demonstrates a **Book Recommender System** utilizing **Collaborativ
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/manideepmuddagowni/book-recommender.git
+   git clone [https://github.com/manideepmuddagowni/book-recommender.git](https://github.com/ManideepMuddagowni/Book-Recommender-System.git)
    ```
 
 2. Install dependencies:
